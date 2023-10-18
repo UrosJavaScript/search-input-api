@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  box-sizing: border-box;
+  background: linear-gradient(273deg, #3b786ef2, #03131a);
+  font-family: 'Roboto Condensed', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+.wraper-app {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+}

@@ -1,0 +1,30 @@
+.containerInput {
+  padding: 50px;
+  border-radius: 10px;
+  background-color: rgb(255 255 255 / 89%);
+}
+
+.wraper-flex {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+}
+.row-flex {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  flex-direction: row;
+  gap: 11px;
+}
+.paddingRight-input input#\:r1\: {
+  padding-right: 40px;
+}
+
+.absolute-element {
+  position: absolute;
+  right: 33%;
+  cursor: pointer;
+  z-index: 10;
+}

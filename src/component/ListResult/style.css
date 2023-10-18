@@ -1,0 +1,13 @@
+.containerList {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.item-wraper {
+  font-size: 18px;
+  color: #ffffff;
+}
+.item-color {
+    color: rgb(218, 240, 18);
+}
